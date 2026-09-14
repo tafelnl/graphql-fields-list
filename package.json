@@ -1,6 +1,6 @@
 {
   "name": "graphql-fields-list",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "Extracts and returns list of fields requested from graphql resolver info object",
   "scripts": {
     "prepublish": "npm run build",
